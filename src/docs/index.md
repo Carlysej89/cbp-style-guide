@@ -4,7 +4,7 @@ title: "Style Guide"
 
 {::nomarkdown}
 <div class="pl-empty-state" style="padding: 20px; padding-top: 80px; margin: auto; max-width: 600px;">
-    <h2 class="text-muted">CBP <b>Style Guide</b> Library</h2>
+    <h2 class="text-muted">NDI <b>Style Guide</b> Library</h2>
 
     <p class="text-muted" style="font-size: 16px;">This design library covers foundational styles, individual components, and more complex patterns. They define how interactions behave, what they look like, and how they might be implemented.</p>
 
